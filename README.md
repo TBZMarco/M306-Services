@@ -14,8 +14,7 @@ Autoren: Marco Neuschwander, Kate Falco
 
 # 3. Benoetigte Hard- und Software
    - Hardware (Materialliste, Funktionalitaet)
-   - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
-	hängigkeiten, Funktionalitaet)
+   - Software 
 
 # 4. Installationsanleitung
  (Didaktisch reduzierte Anleitung. Lernende sollen eine eigene Lösungswege realisieren)
