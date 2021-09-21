@@ -1,10 +1,9 @@
-# Werkstattauftrag W13 PiGlow
-
+# Werkstattauftrag
 Inhaltsverzeichnis:
 -------------------
 
 # 1. Autoren, Versionierung des Dokumentes
-Autoren: Marco Neuschwander
+Autoren: Marco Neuschwander, Kate Falco
 <br>
 
 
